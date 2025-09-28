@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc0ca37-bba4-47df-ae2c-007803ab8065" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/03-spring-boot-actuator/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/03-spring-boot-actuator/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="cfc0ca37-bba4-47df-ae2c-007803ab8065" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +26,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "actuator",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/Home/Documents/Coding/Projects-2025/Spring-Boot-Overview",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758964566652</updated>
       <workItem from="1758964568061" duration="1220000" />
+      <workItem from="1759097486035" duration="153000" />
     </task>
     <servers />
   </component>
